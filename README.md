@@ -52,11 +52,11 @@ I'm a passionate software developer and the mind behind [DevProdigy](https://dev
 
 ## 🌟 Featured YouTube Videos
 
-[![Video Title 1](https://img.youtube.com/vi/video_id_1/hqdefault.jpg)](https://www.youtube.com/watch?v=video_id_1)
+[![Video Title 1](https://img.youtube.com/vi/video_id_1/hqdefault.jpg)](https://youtu.be/kn4n2D7j7eQ?si=yObWmADgdhOH66-p)
 
-[![Video Title 2](https://img.youtube.com/vi/video_id_2/hqdefault.jpg)](https://www.youtube.com/watch?v=video_id_2)
+[![Video Title 2](https://img.youtube.com/vi/video_id_2/hqdefault.jpg)](https://youtu.be/Cwmk5iAUICk?si=vAvqdQCPc6L5mOkW)
 
-[![Video Title 3](https://img.youtube.com/vi/video_id_3/hqdefault.jpg)](https://www.youtube.com/watch?v=video_id_3)
+[![Video Title 3](https://img.youtube.com/vi/video_id_3/hqdefault.jpg)](https://youtu.be/peNOBruTOU0?si=59Xx-scBUksoLR5R)
 
 
 ## 📝 Latest Blog Posts
