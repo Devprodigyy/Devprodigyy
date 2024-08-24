@@ -73,7 +73,7 @@ I'm a passionate software developer and the mind behind [DevProdigy](https://dev
 <a href="https://www.youtube.com/watch?v=video_id_1" target="_blank">
    <img src="https://img.youtube.com/vi/Cwmk5iAUICk/hqdefault.jpg" alt="Video Title 1" style="background-color: #FFFFFF; width: 300px; height: auto; display: inline-block; padding: 5px; border-radius: 4px; border: 1px solid #ddd;">
 </a>
-background-color: #00FFFF; width: 300px; height: auto; display: inline-block; padding: 5px; border-radius: 4px; border: 1px solid #ddd;"
+
 
 ## 📝 Latest Blog Posts
 
