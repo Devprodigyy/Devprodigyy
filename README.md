@@ -55,23 +55,25 @@ I'm a passionate software developer and the mind behind [DevProdigy](https://dev
 
 <!-- [![Video Title 1](https://img.youtube.com/vi/kn4n2D7j7eQ/maxresdefault.jpg )](https://youtu.be/kn4n2D7j7eQ?si=yObWmADgdhOH66-p) -->
 <a href="https://www.youtube.com/watch?v=video_id_1" target="_blank">
-   <img src="https://img.youtube.com/vi/kn4n2D7j7eQ/hqdefault.jpg" alt="Video Title 1" style="width: 300px; height: auto; border: 1px solid #ddd; border-radius: 4px;">
+   <img src="https://img.youtube.com/vi/kn4n2D7j7eQ/hqdefault.jpg" alt="Video Title 1" style="background-color: #FFFFFF
+; width: 300px; height: auto; display: inline-block; padding: 5px; border-radius: 4px; border: 1px solid #ddd;">
 </a>
 
 <!-- [![Video Title 2](https://img.youtube.com/vi/LCER1xdmhmU/maxresdefault.jpg)](https://youtu.be/LCER1xdmhmU?si=nG1hegWNAJVF4c72) -->
 <a href="https://www.youtube.com/watch?v=video_id_1" target="_blank">
-   <img src="https://img.youtube.com/vi/LCER1xdmhmU/hqdefault.jpg" alt="Video Title 1" style="width: 300px; height: auto; border: 1px solid #ddd; border-radius: 4px;">
+   <img src="https://img.youtube.com/vi/LCER1xdmhmU/hqdefault.jpg" alt="Video Title 1" style="background-color: #FFFFFF; width: 300px; height: auto; display: inline-block; padding: 5px; border-radius: 4px; border: 1px solid #ddd;">
 </a>
 
 <!-- [![Video Title 3](https://img.youtube.com/vi/peNOBruTOU0/maxresdefault.jpg)](https://youtu.be/peNOBruTOU0?si=DZCyeURnwSdu5VOQ) -->
 <a href="https://www.youtube.com/watch?v=video_id_1" target="_blank">
-   <img src="https://img.youtube.com/vi/peNOBruTOU0/hqdefault.jpg" alt="Video Title 1" style="width: 300px; height: auto; border: 1px solid #ddd; border-radius: 4px;">
+   <img src="https://img.youtube.com/vi/peNOBruTOU0/hqdefault.jpg" alt="Video Title 1" style="background-color: #FFFFFF; width: 300px; height: auto; display: inline-block; padding: 5px; border-radius: 4px; border: 1px solid #ddd;">
 </a>
 
 <!-- [![Video Title 4](https://img.youtube.com/vi/Cwmk5iAUICk/maxresdefault.jpg)](https://youtu.be/Cwmk5iAUICk?si=IWNM9lSTAKsLuJhI) -->
 <a href="https://www.youtube.com/watch?v=video_id_1" target="_blank">
-   <img src="https://img.youtube.com/vi/Cwmk5iAUICk/hqdefault.jpg" alt="Video Title 1" style="width: 300px; height: auto; border: 1px solid #ddd; border-radius: 4px;">
+   <img src="https://img.youtube.com/vi/Cwmk5iAUICk/hqdefault.jpg" alt="Video Title 1" style="background-color: #FFFFFF; width: 300px; height: auto; display: inline-block; padding: 5px; border-radius: 4px; border: 1px solid #ddd;">
 </a>
+background-color: #00FFFF; width: 300px; height: auto; display: inline-block; padding: 5px; border-radius: 4px; border: 1px solid #ddd;"
 
 ## 📝 Latest Blog Posts
 
