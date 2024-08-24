@@ -53,14 +53,25 @@ I'm a passionate software developer and the mind behind [DevProdigy](https://dev
 
 ## 🌟 Featured YouTube Videos
 
-[![Video Title 1](https://img.youtube.com/vi/kn4n2D7j7eQ/maxresdefault.jpg)](https://youtu.be/kn4n2D7j7eQ?si=yObWmADgdhOH66-p)
+<!-- [![Video Title 1](https://img.youtube.com/vi/kn4n2D7j7eQ/maxresdefault.jpg )](https://youtu.be/kn4n2D7j7eQ?si=yObWmADgdhOH66-p) -->
+<a href="https://www.youtube.com/watch?v=video_id_1" target="_blank">
+   <img src="https://img.youtube.com/vi/kn4n2D7j7eQ/hqdefault.jpg" alt="Video Title 1" style="width: 300px; height: auto; border: 1px solid #ddd; border-radius: 4px;">
+</a>
 
-[![Video Title 2](https://img.youtube.com/vi/LCER1xdmhmU/maxresdefault.jpg)](https://youtu.be/LCER1xdmhmU?si=nG1hegWNAJVF4c72)
+<!-- [![Video Title 2](https://img.youtube.com/vi/LCER1xdmhmU/maxresdefault.jpg)](https://youtu.be/LCER1xdmhmU?si=nG1hegWNAJVF4c72) -->
+<a href="https://www.youtube.com/watch?v=video_id_1" target="_blank">
+   <img src="https://img.youtube.com/vi/LCER1xdmhmU/hqdefault.jpg" alt="Video Title 1" style="width: 300px; height: auto; border: 1px solid #ddd; border-radius: 4px;">
+</a>
 
-[![Video Title 3](https://img.youtube.com/vi/peNOBruTOU0/maxresdefault.jpg)](https://youtu.be/peNOBruTOU0?si=DZCyeURnwSdu5VOQ)
+<!-- [![Video Title 3](https://img.youtube.com/vi/peNOBruTOU0/maxresdefault.jpg)](https://youtu.be/peNOBruTOU0?si=DZCyeURnwSdu5VOQ) -->
+<a href="https://www.youtube.com/watch?v=video_id_1" target="_blank">
+   <img src="https://img.youtube.com/vi/peNOBruTOU0/hqdefault.jpg" alt="Video Title 1" style="width: 300px; height: auto; border: 1px solid #ddd; border-radius: 4px;">
+</a>
 
-[![Video Title 4](https://img.youtube.com/vi/Cwmk5iAUICk/maxresdefault.jpg)](https://youtu.be/Cwmk5iAUICk?si=IWNM9lSTAKsLuJhI)
-
+<!-- [![Video Title 4](https://img.youtube.com/vi/Cwmk5iAUICk/maxresdefault.jpg)](https://youtu.be/Cwmk5iAUICk?si=IWNM9lSTAKsLuJhI) -->
+<a href="https://www.youtube.com/watch?v=video_id_1" target="_blank">
+   <img src="https://img.youtube.com/vi/Cwmk5iAUICk/hqdefault.jpg" alt="Video Title 1" style="width: 300px; height: auto; border: 1px solid #ddd; border-radius: 4px;">
+</a>
 
 ## 📝 Latest Blog Posts
 
@@ -71,5 +82,5 @@ I'm a passionate software developer and the mind behind [DevProdigy](https://dev
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Optional Footer -->
-![footer](https://drive.google.com/uc?export=view&id=1srdvDHs1jJIP2hHDC-m1TmqAcAfD3wZD)
+![Footer Image]([https://assets.pinterest.com/ext/embed.html?id=1013872934856586580.jpg](https://media.licdn.com/dms/image/v2/D5616AQFSpduU8xEKYg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722841110494?e=1729728000&v=beta&t=GOUp8EorydiikFWfBHbG4g70y8SqpOiY6er6RDDy9iY))
 
