@@ -1,5 +1,6 @@
 <!-- Header Image -->
-![header]([https://user-images.githubusercontent.com/your-header-image-link.png](https://media.licdn.com/dms/image/v2/D5616AQFSpduU8xEKYg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722841110494?e=1729728000&v=beta&t=GOUp8EorydiikFWfBHbG4g70y8SqpOiY6er6RDDy9iY))
+![header](https://media.licdn.com/dms/image/v2/D5616AQFSpduU8xEKYg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722841110494?e=1729728000&v=beta&t=GOUp8EorydiikFWfBHbG4g70y8SqpOiY6er6RDDy9iY)
+
 
 <!-- Profile Views -->
 ![](https://komarev.com/ghpvc/?username=Devprodigyy&color=blue)
@@ -44,7 +45,7 @@ I'm a passionate software developer and the mind behind [DevProdigy](https://dev
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/yourwhatsapplink)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devprodigyteam@gmail.com)
 
-## 📺 Latest YouTube Video
+<!-- ## 📺 Latest YouTube Video -->
 
 <!-- YOUTUBE:START -->
 <!-- [![Latest YouTube Video](https://img.shields.io/badge/YouTube-Latest_Video-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=latest_video_id) -->
