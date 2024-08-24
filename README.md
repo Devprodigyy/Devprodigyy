@@ -14,17 +14,20 @@ I'm a passionate software developer and the mind behind [DevProdigy](https://dev
 - 👯 I’m looking to collaborate on **open-source projects and educational content creation.**
 - 📝 I regularly write articles on [Dev.to](https://dev.to/devprodigy)
 - 💬 Ask me about **JavaScript, Python, or anything tech-related.**
-- 📫 How to reach me: **[devprodigyteam@gmail.com](mailto:devprodigyteam@gmail.com)**
+- 📫 How to reach me: **[kunalwatulkar1gmail.com](mailto:kunalwatulkar1@gmail.com)**
 - ⚡ Fun fact: **I love solving complex algorithms and contributing to open-source projects.**
 
 ## 🔧 Technologies & Tools
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![Wix](https://img.shields.io/badge/Wix-FA3C4C?logo=wix&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -38,6 +41,23 @@ I'm a passionate software developer and the mind behind [DevProdigy](https://dev
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devprodigy/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://twitter.com/devprodigy__)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/devprodigy__/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/yourwhatsapplink)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devprodigyteam@gmail.com)
+
+## 📺 Latest YouTube Video
+
+<!-- YOUTUBE:START -->
+[![Latest YouTube Video](https://img.shields.io/badge/YouTube-Latest_Video-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=latest_video_id)
+<!-- YOUTUBE:END -->
+
+## 🌟 Featured YouTube Videos
+
+[![Video Title 1](https://img.youtube.com/vi/video_id_1/hqdefault.jpg)](https://www.youtube.com/watch?v=video_id_1)
+
+[![Video Title 2](https://img.youtube.com/vi/video_id_2/hqdefault.jpg)](https://www.youtube.com/watch?v=video_id_2)
+
+[![Video Title 3](https://img.youtube.com/vi/video_id_3/hqdefault.jpg)](https://www.youtube.com/watch?v=video_id_3)
+
 
 ## 📝 Latest Blog Posts
 
