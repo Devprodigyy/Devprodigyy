@@ -47,12 +47,12 @@ I'm a passionate software developer and the mind behind [DevProdigy](https://dev
 ## 📺 Latest YouTube Video
 
 <!-- YOUTUBE:START -->
-[![Latest YouTube Video](https://img.shields.io/badge/YouTube-Latest_Video-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=latest_video_id)
+<!-- [![Latest YouTube Video](https://img.shields.io/badge/YouTube-Latest_Video-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=latest_video_id) -->
 <!-- YOUTUBE:END -->
 
 ## 🌟 Featured YouTube Videos
 
-[![Video Title 1](https://img.youtube.com/vi/video_id_1/hqdefault.jpg)](https://youtu.be/kn4n2D7j7eQ?si=yObWmADgdhOH66-p)
+[![Video Title 1](https://img.youtube.com/vi/kn4n2D7j7eQ&t=490s/maxresdefault.jpg)](https://youtu.be/kn4n2D7j7eQ?si=yObWmADgdhOH66-p)
 
 [![Video Title 2](https://img.youtube.com/vi/video_id_2/hqdefault.jpg)](https://youtu.be/Cwmk5iAUICk?si=vAvqdQCPc6L5mOkW)
 
