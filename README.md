@@ -84,6 +84,6 @@ I'm a passionate software developer and the mind behind [DevProdigy](https://dev
 <!-- BLOG-POST-LIST:END -->
 
 <!-- Optional Footer -->
-![Footer Image]([https://assets.pinterest.com/ext/embed.html?id=1013872934856586580.jpg](https://media.licdn.com/dms/image/v2/D5616AQFSpduU8xEKYg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722841110494?e=1729728000&v=beta&t=GOUp8EorydiikFWfBHbG4g70y8SqpOiY6er6RDDy9iY))
+<!-- ![Footer Image]([https://assets.pinterest.com/ext/embed.html?id=1013872934856586580.jpg](https://media.licdn.com/dms/image/v2/D5616AQFSpduU8xEKYg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722841110494?e=1729728000&v=beta&t=GOUp8EorydiikFWfBHbG4g70y8SqpOiY6er6RDDy9iY)) -->
 
 
