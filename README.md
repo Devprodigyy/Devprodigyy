@@ -1,6 +1,7 @@
 <!-- Header Image -->
 ![header](https://media.licdn.com/dms/image/v2/D5616AQFSpduU8xEKYg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722841110494?e=1729728000&v=beta&t=GOUp8EorydiikFWfBHbG4g70y8SqpOiY6er6RDDy9iY)
 
+[![KUNALWATULKAR's Dev Card](https://api.daily.dev/devcards/v2/UbwWwvcPDLFL4pxeFoaGW.png?type=default&r=6w5)](https://app.daily.dev/devprodigy__)
 
 <!-- Profile Views -->
 ![](https://komarev.com/ghpvc/?username=Devprodigyy&color=blue)
