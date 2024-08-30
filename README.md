@@ -1,11 +1,6 @@
 <!-- Header Image -->
 ![header](https://media.licdn.com/dms/image/v2/D5616AQFSpduU8xEKYg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1722841110494?e=1729728000&v=beta&t=GOUp8EorydiikFWfBHbG4g70y8SqpOiY6er6RDDy9iY)
 
-<a href="https://app.daily.dev/devprodigy__">
-  <img src="https://api.daily.dev/devcards/v2/UbwWwvcPDLFL4pxeFoaGW.png?type=default&r=6w5" width="200" alt="KUNALWATULKAR's Dev Card"/>
-</a>
-
-
 <!-- Profile Views -->
 ![](https://komarev.com/ghpvc/?username=Devprodigyy&color=blue)
 
@@ -33,6 +28,14 @@ I'm a passionate software developer and the mind behind [DevProdigy](https://dev
 ![Wix](https://img.shields.io/badge/Wix-FA3C4C?logo=wix&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+
+## Devcard
+
+<a href="https://app.daily.dev/devprodigy__">
+  <img src="https://api.daily.dev/devcards/v2/UbwWwvcPDLFL4pxeFoaGW.png?type=default&r=6w5" width="200" alt="KUNALWATULKAR's Dev Card"/>
+</a>
+
+
 
 ## 📊 GitHub Stats
 
