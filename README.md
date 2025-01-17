@@ -6,7 +6,7 @@
 
 # Hi there, I'm Kunal Watulkar! 👋
 
-I'm a passionate software developer and the mind behind [DevProdigy](https://devprodigy-portfolio-1.netlify.app/), where I create educational content to help others become better developers.
+I'm a passionate software developer and the mind behind [DevProdigy](https://devprodigy.in/), where I create educational content to help others become better developers.
 
 ## 🚀 About Me
 
