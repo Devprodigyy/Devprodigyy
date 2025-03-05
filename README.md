@@ -15,7 +15,7 @@ I’m a passionate **Frontend Developer & Creative Web Designer**, constantly ex
 
 ### 🎥 Featured YouTube Videos
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5vw; align-items:center; width:100%;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5vw; align-items:center; width: 100%;">
   <a href="https://youtu.be/KgRlPvsik6c?si=FGU7bhcIVsvi5iTi" target="_blank">
     <img src="https://i.ytimg.com/an_webp/KgRlPvsik6c/mqdefault_6s.webp?du=3000&sqp=CKP7n74G&rs=AOn4CLBzs2EgYeQqMb_i_PK1LJssNlVhUA" alt="Video Thumbnail" style="max-width: 300px; height:100% ;border-radius: 8px;">
   </a>
