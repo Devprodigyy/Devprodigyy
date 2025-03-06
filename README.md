@@ -17,7 +17,7 @@ I’m a passionate **Frontend Developer & Creative Web Designer**, constantly ex
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5vw; align-items:center; width: 100%;">
   <a href="https://youtu.be/KgRlPvsik6c?si=FGU7bhcIVsvi5iTi" target="_blank">
-    <img src="https://i.ytimg.com/an_webp/KgRlPvsik6c/mqdefault_6s.webp?du=3000&sqp=CKP7n74G&rs=AOn4CLBzs2EgYeQqMb_i_PK1LJssNlVhUA" alt="Video Thumbnail" style="max-width: 300px; height:100% ;border-radius: 8px;">
+    <img src="https://www.youtube.com/watch?v=KgRlPvsik6c" alt="Video Thumbnail" style="max-width: 300px; height:100% ;border-radius: 8px;">
   </a>
   <a href="https://youtu.be/ayVuKq4eSc8?si=tFErREHo3meN8zOb" target="_blank">
     <img src="https://i.ytimg.com/an_webp/ayVuKq4eSc8/mqdefault_6s.webp?du=3000&sqp=CJb-n74G&rs=AOn4CLD0LgDg6lG3A7rvy1zz4YUIso4wWw" alt="Video Thumbnail" style="max-width: 300px; border-radius: 8px;">
