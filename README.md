@@ -17,14 +17,14 @@ I’m a passionate **Frontend Developer & Creative Web Designer**, constantly ex
 ### 🎥 Featured YouTube Videos
 
 <div style="display: flex; flex-wrap: wrap; justify-content:between; gap: 5vw; align-items:center; width:100%">
-  <a href="https://youtu.be/KgRlPvsik6c?si=FGU7bhcIVsvi5iTi" target="_blank">
-    <img src="https://www.youtube.com/watch?v=KgRlPvsik6c" alt="Video Thumbnail" style="max-width: 300px; height:100% ;border-radius: 8px;">
+  <a href="https://youtu.be/KgRlPvsik6c" target="_blank"> 
+    <img src="https://i.pinimg.com/736x/72/08/07/72080727326771835cd1766cd74e77a9.jpg" alt="Video Thumbnail" style="max-width: 300px; height:100% ;border-radius: 8px;">
   </a>
-  <a href="https://youtu.be/ayVuKq4eSc8?si=tFErREHo3meN8zOb" target="_blank">
-    <img src="https://i9.ytimg.com/vi/CXsLXH0ObUI/mqdefault.jpg?v=67baa9c4&sqp=COi2pL4G&rs=AOn4CLBs2kcXhX5kogO2gJ7A7HMQ7FoGjw" alt="Video Thumbnail" style="max-width: 300px; border-radius: 8px;">
+  <a href="https://youtu.be/rc3HBcgsU8k" target="_blank">
+    <img src="https://i.pinimg.com/736x/43/22/3e/43223eb4cc855a3daeaef91934597f62.jpg" alt="Video Thumbnail" style="max-width: 300px; border-radius: 8px;">
   </a>
-   <a href="https://youtu.be/CXsLXH0ObUI?si=ZRCPFrm_MsuovWBg" target="_blank">
-    <img src="https://i9.ytimg.com/vi_webp/bl-4fSj9QW0/mqdefault.webp?v=6726e3f3&sqp=COi2pL4G&rs=AOn4CLDLfOB9zCLC-1J3-y6TzNl9yjPx-A" alt="Video Thumbnail" style="max-width: 300px; border-radius: 8px;">
+   <a href="https://youtu.be/CXsLXH0ObUI" target="_blank">
+    <img src="https://i.pinimg.com/736x/d3/58/03/d35803011c04d24db234622528578da9.jpg" alt="Video Thumbnail" style="max-width: 300px; border-radius: 8px;">
   </a>
 </div>
 
