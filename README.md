@@ -18,13 +18,13 @@ I’m a passionate **Frontend Developer & Creative Web Designer**, constantly ex
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5vw; align-items: center; width: 100%;">
   <a href="https://youtu.be/KgRlPvsik6c" target="_blank">
-    <img src="https://i.pinimg.com/736x/72/08/07/72080727326771835cd1766cd74e77a9.jpg" alt="Video Thumbnail" style="width: 100%; max-width: 300px; border-radius: 8px;">
+    <img src="https://i.pinimg.com/736x/72/08/07/72080727326771835cd1766cd74e77a9.jpg" alt="Video Thumbnail" style="max-width: 300px; border-radius: 8px;">
   </a>
   <a href="https://youtu.be/rc3HBcgsU8k" target="_blank">
-    <img src="https://i.pinimg.com/736x/43/22/3e/43223eb4cc855a3daeaef91934597f62.jpg" alt="Video Thumbnail" style="width: 100%; max-width: 300px; border-radius: 8px;">
+    <img src="https://i.pinimg.com/736x/43/22/3e/43223eb4cc855a3daeaef91934597f62.jpg" alt="Video Thumbnail" style="max-width: 300px; border-radius: 8px;">
   </a>
   <a href="https://youtu.be/CXsLXH0ObUI" target="_blank">
-    <img src="https://i.pinimg.com/736x/d3/58/03/d35803011c04d24db234622528578da9.jpg" alt="Video Thumbnail" style="width: 100%; max-width: 300px; border-radius: 8px;">
+    <img src="https://i.pinimg.com/736x/d3/58/03/d35803011c04d24db234622528578da9.jpg" alt="Video Thumbnail" style="max-width: 300px; border-radius: 8px;">
   </a>
 </div>
 
