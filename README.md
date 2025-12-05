@@ -1,6 +1,6 @@
 ## Hi there, I'm Kunal Watulkar! 👋
 
-![DevProdigy Banner](https://media.licdn.com/dms/image/v2/D5616AQFR1D-rRL_A1A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735539051939?e=1762992000&v=beta&t=9HYztJG05kMJv_Sc_TPfER5MCubsN4VGcSXrLUzChoI)
+![DevProdigy Banner](https://media.licdn.com/dms/image/v2/D5616AQFR1D-rRL_A1A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735539051939?e=1766620800&v=beta&t=MbxR4ccqU2ta9VLB5WTv2oVx7hfjrApj-T7WH_z7xog)
 
 I’m a passionate **Frontend Developer & Creative Web Designer**, constantly exploring new technologies and pushing the limits of web development. I build modern, aesthetic, and high-performance websites that create exceptional user experiences.
 
